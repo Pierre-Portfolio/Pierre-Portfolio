@@ -37,7 +37,7 @@
         <img src="http://pierre-petillion.fr/photos/competence/PHP.jpg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>PHP
-    </td>
+    </td> 
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
