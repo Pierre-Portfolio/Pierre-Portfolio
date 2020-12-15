@@ -120,6 +120,128 @@
 ![Android Studio](https://img.shields.io/badge/Android%20studio%20-%23313131.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
 
+<table>
+   <tr>
+   <td colspan="5" align="center">
+      <a href="#macropower-tech">
+        ✏️ IDE Tools
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Qt_Creator.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Qt Creator
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/android_studio.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Oracle.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Xcode.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Xcode
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Unity.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Eclipse.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Eclipse
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/anaconda.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Visual_Studio.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/R_Studio.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>R Studio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/CodeBlock.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Code::Blocks
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Terminale.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Terminale
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/solidworks.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>SolidWork
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Access.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Access
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Geany.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Geany
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/VirtualBox.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Xampp.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Xampp
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Marionnet.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Marionnet
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/mysql.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>MySql
+    </td>
+  </tr>
+</table>
+
 ### 🌱 OS
 ![Windows10](https://img.shields.io/badge/Windows%2010-000000?style=for-the-badge&logo=Windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=Android&logoColor=white)
