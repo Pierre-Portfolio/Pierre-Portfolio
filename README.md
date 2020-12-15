@@ -113,18 +113,11 @@
   </tr>
 </table>
 
-
-### 💼 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-0078D7?style=for-the-badge&logo=Unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20studio%20-%23313131.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
-![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
-
 <table>
    <tr>
-   <td colspan="5" align="center">
+   <td colspan="9" align="center">
       <a href="#macropower-tech">
-        ✏️ IDE Tools
+        💼 IDE Tools
       </a>
     </td>
   </tr>
@@ -242,10 +235,47 @@
   </tr>
 </table>
 
-### 🌱 OS
-![Windows10](https://img.shields.io/badge/Windows%2010-000000?style=for-the-badge&logo=Windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=Android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70651?style=for-the-badge&logo=Debian&logoColor=white)
+<table>
+   <tr>
+   <td colspan="5" align="center">
+      <a href="#macropower-tech">
+       🌱 OS
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/window.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Window 7 & 10
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/debian.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Ubuntu.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Rasberry
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Android
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Statistics
 | Github Stats | Top Languages |
