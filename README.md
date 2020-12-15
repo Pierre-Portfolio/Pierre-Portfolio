@@ -24,7 +24,7 @@
       <a href="#macropower-tech">
         <img src="http://pierre-petillion.fr/photos/competence/android_studio.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Android Studio
+      <br>Android
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -60,7 +60,7 @@
       <a href="#macropower-tech">
         <img src="http://pierre-petillion.fr/photos/competence/Visual_Studio.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>Visual Studio
+      <br>Visual
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -267,8 +267,6 @@
     </td>
   </tr>
 </table>
-
-<br>
 
 | Github Stats | Top Languages |
 | --- | --- |
