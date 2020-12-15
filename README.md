@@ -6,7 +6,9 @@
 ---
 
 <!-- ## ✏️ Web/Server -->
-<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/picture/Web.svg" alt="Marton Lederer" />
+<h1 align="center">
+<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/picture/Web2.svg" alt="Marton Lederer" />
+</h1>
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
