@@ -7,7 +7,7 @@
 
 <table>
    <tr>
-   <td colspan="9" align="center">
+   <td colspan="5" align="center">
       <a href="#macropower-tech">
         ✏️ Programming Web
       </a>
