@@ -70,9 +70,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/VB.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://banner2.cleanpng.com/20180629/pvt/kisspng-microsoft-visual-studio-express-visual-basic-visua-c-v-5b35b578718de9.8381351815302465204651.jpg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Visual Basic
+      <br>VB.net
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
