@@ -44,11 +44,11 @@
 ### 📝 Programming
 <table>
   <tr>
-   <td align="center">
+   <th align="center">
       <a href="#macropower-tech">
         📝 Programming Language
       </a>
-    </td>
+    </th>
   </tr>
   <tr>
     <td align="center" width="96">
