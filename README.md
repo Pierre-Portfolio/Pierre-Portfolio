@@ -127,6 +127,8 @@
   </tr>
 </table>
 
+---
+
 <table>
   <tr>
    <td colspan="9" align="center">
@@ -193,6 +195,8 @@
   </tr>
 </table>
 
+---
+
 <table>
    <tr>
    <td colspan="5" align="center">
@@ -235,6 +239,8 @@
   </tr>
 </table>
 
+---
+
 <table>
    <tr>
    <td colspan="5" align="center">
@@ -276,6 +282,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### 🏆 Statistics
 | Github Stats | Top Languages |
