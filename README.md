@@ -32,9 +32,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=for-the-badge&logo=Debian&logoColor=white)
 
 ### 🏆 Statistics
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pierre-Portfolio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="languages" height="165">
-</p>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Pierre-Portfolio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Portfolio&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,6 +40,6 @@
 ---
 
 <p align="center"> 
-  Visitor count<br>
+  🏆 Visitor count<br>
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
