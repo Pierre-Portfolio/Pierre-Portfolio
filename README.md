@@ -7,114 +7,6 @@
 
 <table>
    <tr>
-   <td colspan="5" align="center">
-      <a href="#macropower-tech">
-        ✏️ Web Programming
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/web.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/css.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/sql.png" width="48" height="48" alt="Golang" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/PHP.jpg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>PHP
-    </td> 
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-   <td colspan="9" align="center">
-      <a href="#macropower-tech">
-        📝 Object-Oriented Programming
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/arduino.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/c.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/csharps.png" width="48" height="48" alt="Golang" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>VB.net
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Qt Creator
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/Switch.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Switch
-    </td>
-  </tr>
-</table>
-
-<table>
-   <tr>
    <td colspan="9" align="center">
       <a href="#macropower-tech">
         💼 IDE Tools
@@ -236,6 +128,114 @@
 </table>
 
 <table>
+  <tr>
+   <td colspan="9" align="center">
+      <a href="#macropower-tech">
+        📝 Object-Oriented Programming
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/arduino.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/c.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/csharps.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>VB.net
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Qt Creator
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/Switch.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Switch
+    </td>
+  </tr>
+</table>
+
+<table>
+   <tr>
+   <td colspan="5" align="center">
+      <a href="#macropower-tech">
+        ✏️ Web Programming
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/web.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/css.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/sql.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/PHP.jpg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>PHP
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+<table>
    <tr>
    <td colspan="5" align="center">
       <a href="#macropower-tech">
@@ -270,7 +270,7 @@
     </td> 
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+        <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Android
     </td>
