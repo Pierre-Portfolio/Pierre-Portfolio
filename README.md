@@ -9,7 +9,7 @@
    <tr>
    <td colspan="5" align="center">
       <a href="#macropower-tech">
-        ✏️ Programming Web
+        ✏️ Web Programming
       </a>
     </td>
   </tr>
@@ -51,7 +51,7 @@
   <tr>
    <td colspan="9" align="center">
       <a href="#macropower-tech">
-        📝 Programming Language
+        📝 Object-Oriented Programming
       </a>
     </td>
   </tr>
