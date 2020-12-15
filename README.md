@@ -127,7 +127,7 @@
   </tr>
 </table>
 
----
+<br>
 
 <table>
   <tr>
@@ -195,7 +195,7 @@
   </tr>
 </table>
 
----
+<br>
 
 <table>
    <tr>
@@ -239,7 +239,7 @@
   </tr>
 </table>
 
----
+<br>
 
 <table>
    <tr>
@@ -283,7 +283,7 @@
   </tr>
 </table>
 
----
+<br>
 
 ### 🏆 Statistics
 | Github Stats | Top Languages |
