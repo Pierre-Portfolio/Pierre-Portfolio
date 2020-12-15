@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/picture/name2.svg" alt="Marton Lederer" />
-</h1>
-<p align="center">Hey ! I'm Pierre P, 21 years olds, an engineering student in computer science</p>
+</h1><p align="center">Hey ! I'm Pierre P, 21 years olds, an engineering student in computer science</p>
 
 ---
 
