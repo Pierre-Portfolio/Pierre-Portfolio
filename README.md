@@ -38,7 +38,7 @@
 
 | Github Trophy |
 | ---- |
-| ![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Portfolio&row=5&margin-w=15&theme=onedark) |
+| ![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Portfolio&row=5&margin-w=10&theme=onedark) |
 
 ---
 
