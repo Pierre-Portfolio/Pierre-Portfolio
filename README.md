@@ -16,6 +16,49 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/web.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/css.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/sql.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/PHP.jpg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+### 📝 Programming
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-189F20?style=for-the-badge&logo=C-sharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-blue.svg?style=for-the-badge&logo=vba)
+![Java](https://img.shields.io/badge/Java-E50000?style=for-the-badge&logo=Java&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
@@ -127,13 +170,6 @@
   </tr>
 </table>
 
-### 📝 Programming
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-189F20?style=for-the-badge&logo=C-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-blue.svg?style=for-the-badge&logo=vba)
-![Java](https://img.shields.io/badge/Java-E50000?style=for-the-badge&logo=Java&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 
 ### 💼 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
