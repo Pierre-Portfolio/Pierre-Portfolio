@@ -6,8 +6,6 @@
 ---
 
 ### ✏️ Web/Server
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -18,13 +16,13 @@
       <a href="#macropower-tech">
         <img src="http://pierre-petillion.fr/photos/competence/web.png" width="48" height="48" alt="C#" />
       </a>
-      <br>HTML5
+      <br><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="http://pierre-petillion.fr/photos/competence/css.png" width="48" height="48" alt="Python" />
       </a>
-      <br>CSS3
+      <br><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
