@@ -204,6 +204,11 @@
         ✏️ Web Programming
       </a>
     </td>
+    <td colspan="4" align="center">
+      <a href="#macropower-tech">
+       🌱 OS
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -235,26 +240,6 @@
         <img src="http://pierre-petillion.fr/photos/competence/js.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-   <tr>
-   <td colspan="5" align="center">
-      <a href="#macropower-tech">
-       🌱 OS
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="http://pierre-petillion.fr/photos/competence/window.png" width="48" height="48" alt="C#" />
-      </a>
-      <br>Window 7 & 10
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
