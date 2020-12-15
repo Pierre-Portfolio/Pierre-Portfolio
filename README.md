@@ -43,6 +43,9 @@
 ---
 
 <p align="center"> 
-  🏆 Visitor count<br>
+  🏆 Visitor count
+  <br>
+  <br>
+  <br>
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
