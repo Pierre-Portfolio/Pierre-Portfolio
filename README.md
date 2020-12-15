@@ -44,7 +44,7 @@
 ### 📝 Programming
 <table>
   <tr>
-   <td align="center" width="96">
+   <td align="center">
       <a href="#macropower-tech">
         📝 Programming Language
       </a>
