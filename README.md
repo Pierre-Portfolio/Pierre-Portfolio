@@ -32,11 +32,10 @@ Hey ! I'm Pierre P, an engineering student in computer science at [Esilv](https:
 ![Android](https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=for-the-badge&logo=Debian&logoColor=white)
 
+### Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-cokil&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Pierre-Portfolio&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
-<!--
-**super-cokil/super-cokil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
