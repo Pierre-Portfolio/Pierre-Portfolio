@@ -8,8 +8,6 @@ Hey ! I'm Pierre P, an engineering student in computer science at [Esilv](https:
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Programming
@@ -19,16 +17,11 @@ Hey ! I'm Pierre P, an engineering student in computer science at [Esilv](https:
 ![C#](https://img.shields.io/badge/C%23-189F20?style=for-the-badge&logo=C-sharp&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-blue.svg?style=for-the-badge&logo=vba)
 ![Java](https://img.shields.io/badge/Java-E50000?style=for-the-badge&logo=Java&logoColor=white)
-![Ocaml](https://img.shields.io/badge/Ocaml-E50000?style=for-the-badge&logo=Ocaml&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![Julia](https://img.shields.io/badge/julia%20-%23313131.svg?&style=for-the-badge&logo=julia&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/godot%20engine%20-%23313131.svg?&style=for-the-badge&logo=godot%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-0078D7?style=for-the-badge&logo=Unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20studio%20-%23313131.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
