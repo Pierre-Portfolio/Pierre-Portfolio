@@ -40,3 +40,8 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Pierre-Portfolio&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
