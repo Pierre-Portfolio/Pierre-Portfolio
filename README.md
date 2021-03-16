@@ -59,8 +59,8 @@
       <br>Terminal
     </td>
     <td align="center" width="96">  
-        <img src="http://pierre-petillion.fr/photos/competence/solidworks.png" width="48" height="48" alt="Jsonnet" />  
-      <br>SolidWork
+        <img src="http://pierre-petillion.fr/photos/competence/NodeJs.png" width="48" height="48" alt="Jsonnet" />  
+      <br>NodeJs
     </td> 
     <td align="center" width="96">    
         <img src="http://pierre-petillion.fr/photos/competence/Access.png" width="48" height="48" alt="JavaScript" />     
