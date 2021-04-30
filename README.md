@@ -204,8 +204,8 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" />
-      <br>Arduino
+        <a href="https://www.qries.com/"><img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" /></a>
+      <br>Discord
     </td>
     <td align="center" width="96">  
         <img src="http://pierre-petillion.fr/photos/competence/c.png" width="48" height="48" alt="Python" />
