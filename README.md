@@ -195,6 +195,56 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Portfolio&row=1&margin-w=40&theme=onedark)
 -->
 
+<br>
+<table>
+  <tr>
+   <td colspan="9" align="center"> 
+        🔨 Object-Oriented Programming   
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="http://pierre-petillion.fr/photos/competence/arduino.png" width="48" height="48" alt="C#" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">  
+        <img src="http://pierre-petillion.fr/photos/competence/c.png" width="48" height="48" alt="Python" />
+      <br>C
+    </td>
+    <td align="center" width="96"> 
+        <img src="http://pierre-petillion.fr/photos/competence/csharps.png" width="48" height="48" alt="Golang" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="http://pierre-petillion.fr/photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
+      <br>VB.net
+    </td>
+    <td align="center" width="96">
+        <img src="http://pierre-petillion.fr/photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="http://pierre-petillion.fr/photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
+      <br>Qt Creator
+    </td>
+    <td align="center" width="96">
+        <img src="http://pierre-petillion.fr/photos/competence/Switch.png" width="48" height="48" alt="Sass" />
+      <br>Switch
+    </td>
+  </tr>
+</table>
+<br>
+
+
 ---
 
 <p align="center"> 
