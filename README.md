@@ -224,8 +224,8 @@
       <br>LinkedIn</a>
     </td>
     <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/Youtube.png" width="48" height="48" alt="JavaScript" /></a>
-      <br>Java
+        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about"><img src="http://pierre-petillion.fr/photos/competence/Youtube.png" width="48" height="48" alt="JavaScript" />
+      <br>Youtube</a>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
