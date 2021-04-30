@@ -204,7 +204,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="http://pierre-petillion.fr/photos/competence/arduino.png" width="48" height="48" alt="C#" />
+        <img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" />
       <br>Arduino
     </td>
     <td align="center" width="96">  
