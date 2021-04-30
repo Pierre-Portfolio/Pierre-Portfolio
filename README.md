@@ -231,7 +231,7 @@
       <br>SpeedRun</a>
     </td>
     <td align="center" width="96">
-        <a href="https://www.chess.com/member/trynjitsu"><img style="padding-top: 14px" src="http://pierre-petillion.fr/photos/competence/Chess.png" width="44" height="44" alt="Bootstrap" />
+        <a href="https://www.chess.com/member/trynjitsu"><img style="margin-bottom: -4px" src="http://pierre-petillion.fr/photos/competence/Chess.png" width="44" height="44" alt="Bootstrap" />
       <br>Chess.com</a>
     </td>
     <td align="center" width="96">
