@@ -204,12 +204,12 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <a href="https://discord.gg/v98A3GENaU/"><img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" /></a>
+        <a href="https://discord.gg/v98A3GENaU"><img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" /></a>
       <br>Discord
     </td>
     <td align="center" width="96">  
-        <img src="http://pierre-petillion.fr/photos/competence/c.png" width="48" height="48" alt="Python" />
-      <br>C
+        <img src="http://pierre-petillion.fr/photos/competence/snapcode.png" width="48" height="48" alt="Python" />
+      <br>Snapchat
     </td>
     <td align="center" width="96"> 
         <img src="http://pierre-petillion.fr/photos/competence/csharps.png" width="48" height="48" alt="Golang" />
