@@ -227,7 +227,7 @@
       <br>Youtube</a>
     </td>
     <td align="center" width="96">
-      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
+      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="44" height="44" alt="React" />
       <br>SpeedRun</a>
     </td>
     <td align="center" width="96">
