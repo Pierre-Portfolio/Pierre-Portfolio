@@ -195,6 +195,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Pierre-Portfolio&row=1&margin-w=40&theme=onedark)
 -->
 
+---
 
 <p align="center"> 
   Visitor Count
