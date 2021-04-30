@@ -220,8 +220,8 @@
       <br>Twitch
     </td>
     <td align="center" width="96">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
-      <br>VB.net
+        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="TypeScript" />
+      <br>LinkedIn
     </td>
     <td align="center" width="96">
         <img src="http://pierre-petillion.fr/photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
