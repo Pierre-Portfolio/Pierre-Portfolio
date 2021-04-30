@@ -216,8 +216,8 @@
       <br>Facebook
     </td>
     <td align="center" width="96">
-        <img src="http://pierre-petillion.fr/photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
-      <br>C++
+        <a href="https://www.twitch.tv/trynjutsu"><img src="http://pierre-petillion.fr/photos/competence/Twitch.png" width="48" height="48" alt="Jsonnet" /></a>
+      <br>Twitch
     </td>
     <td align="center" width="96">
         <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
