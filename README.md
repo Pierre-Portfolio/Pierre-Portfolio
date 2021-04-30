@@ -235,8 +235,8 @@
       <br>Chess.com</a>
     </td>
     <td align="center" width="96">
-        <img src="http://pierre-petillion.fr/photos/competence/Switch.png" width="48" height="48" alt="Sass" />
-      <br>Switch
+        <a href="https://www.chess.com/member/trynjitsu"><img src="http://pierre-petillion.fr/photos/competence/root.jpg" width="48" height="48" alt="Sass" />
+      <br>Rootme</a>
     </td>
   </tr>
 </table>
