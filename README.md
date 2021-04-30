@@ -199,7 +199,7 @@
 <table>
   <tr>
    <td colspan="9" align="center"> 
-        📃 CONTACT
+        📃 FOLLOW ME
     </td>
   </tr>
   <tr>
@@ -212,8 +212,8 @@
       <br>Snapchat
     </td>
     <td align="center" width="96"> 
-        <img src="http://pierre-petillion.fr/photos/competence/csharps.png" width="48" height="48" alt="Golang" />
-      <br>C#
+        <a href="https://www.facebook.com/profile.php?id=100011270256643"><img src="http://pierre-petillion.fr/photos/competence/Facebook.png" width="48" height="48" alt="Golang" /></a>
+      <br>Facebook
     </td>
     <td align="center" width="96">
         <img src="http://pierre-petillion.fr/photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
