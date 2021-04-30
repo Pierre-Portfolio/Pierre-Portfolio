@@ -227,7 +227,7 @@
       <br>Youtube</a>
     </td>
     <td align="center" width="96">
-      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
+      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://images-eu.ssl-images-amazon.com/images/I/31NBCOye-tL.png" width="48" height="48" alt="React" />
       <br>SpeedRun</a>
     </td>
     <td align="center" width="96">
