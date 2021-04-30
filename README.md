@@ -121,7 +121,6 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
       <br>Python
     </td>
@@ -228,9 +227,8 @@
       <br>Youtube</a>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
-      <br>Python
+      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="http://pierre-petillion.fr/photos/competence/python.png" width="48" height="48" alt="React" />
+      <br>SpeedRun</a>
     </td>
     <td align="center" width="96">
         <img src="http://pierre-petillion.fr/photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
