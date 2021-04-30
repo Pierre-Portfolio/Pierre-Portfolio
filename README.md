@@ -199,7 +199,7 @@
 <table>
   <tr>
    <td colspan="9" align="center"> 
-        ✉ CONTACT
+        📃 CONTACT
     </td>
   </tr>
   <tr>
