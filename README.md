@@ -208,7 +208,7 @@
       <br>Discord</a>
     </td>
     <td align="center" width="96">  
-        <img src="http://pierre-petillion.fr/photos/competence/snapcode.png" width="48" height="48" alt="Snapchat" />
+        <a href="https://www.snapchat.com/add/trynjitsu"><img src="http://pierre-petillion.fr/photos/competence/snapcode.png" width="48" height="48" alt="Snapchat" />
       <br>Snapchat</a>
     </td>
     <td align="center" width="96"> 
