@@ -204,24 +204,24 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <a href="https://discord.gg/v98A3GENaU"><img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" /></a>
-      <br>Discord
+        <a href="https://discord.gg/v98A3GENaU"><img src="http://pierre-petillion.fr/photos/competence/Discord.png" width="48" height="48" alt="Discord" />
+      <br>Discord</a>
     </td>
     <td align="center" width="96">  
-        <img src="http://pierre-petillion.fr/photos/competence/snapcode.png" width="48" height="48" alt="Python" />
-      <br>Snapchat
+        <img src="http://pierre-petillion.fr/photos/competence/snapcode.png" width="48" height="48" alt="Snapchat" />
+      <br>Snapchat</a>
     </td>
     <td align="center" width="96"> 
-        <a href="https://www.facebook.com/profile.php?id=100011270256643"><img src="http://pierre-petillion.fr/photos/competence/Facebook.png" width="48" height="48" alt="Golang" /></a>
-      <br>Facebook
+        <a href="https://www.facebook.com/profile.php?id=100011270256643"><img src="http://pierre-petillion.fr/photos/competence/Facebook.png" width="48" height="48" alt="Facebook" />
+      <br>Facebook</a>
     </td>
     <td align="center" width="96">
-        <a href="https://www.twitch.tv/trynjutsu"><img src="http://pierre-petillion.fr/photos/competence/Twitch.png" width="48" height="48" alt="Jsonnet" /></a>
-      <br>Twitch
+        <a href="https://www.twitch.tv/trynjutsu"><img src="http://pierre-petillion.fr/photos/competence/Twitch.png" width="48" height="48" alt="Twitch" />
+      <br>Twitch</a>
     </td>
     <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="TypeScript" /></a>
-      <br>LinkedIn
+        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="LinkedIn" />
+      <br>LinkedIn</a>
     </td>
     <td align="center" width="96">
         <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/Youtube.png" width="48" height="48" alt="JavaScript" /></a>
