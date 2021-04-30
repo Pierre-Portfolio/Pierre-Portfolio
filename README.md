@@ -220,11 +220,11 @@
       <br>Twitch
     </td>
     <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="TypeScript" />
+        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="TypeScript" /></a>
       <br>LinkedIn
     </td>
     <td align="center" width="96">
-        <img src="http://pierre-petillion.fr/photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
+        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/Youtube.png" width="48" height="48" alt="JavaScript" /></a>
       <br>Java
     </td>
     <td align="center" width="96">
