@@ -1,3 +1,11 @@
+<style>
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+
+
 <h1 align="center">
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/picture/name2.svg" alt="Marton Lederer" />
 </h1>
