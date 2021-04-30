@@ -246,3 +246,8 @@
   <br>
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
+
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Pierre-portfolio&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
