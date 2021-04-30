@@ -236,7 +236,7 @@
     </td>
     <td align="center" width="96">
         <a href="https://www.root-me.org/Elipse?lang=fr#7cd12695e77951472fca7d325b70e505"><img src="http://pierre-petillion.fr/photos/competence/rootme.png" width="48" height="48" alt="Sass" />
-      <br><p>Rootme</p></a>
+      <br><p style="margin-top: 14px">Rootme</p></a>
     </td>
   </tr>
 </table>
