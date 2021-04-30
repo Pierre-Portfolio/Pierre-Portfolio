@@ -230,11 +230,11 @@
       <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="44" height="44" alt="React" />
       <br>SpeedRun</a>
     </td>
-    <td align="center" width="96">
+    <td style="padding-right:10px;" align="center" width="96">
         <a href="https://www.chess.com/member/trynjitsu"><img src="http://pierre-petillion.fr/photos/competence/Chess.png" width="44" height="44" alt="Bootstrap" />
       <br>Chess.com</a>
     </td>
-    <td style="padding-right:10px;" align="center" width="96">
+    <td align="center" width="96">
         <a href="https://www.root-me.org/Elipse?lang=fr#7cd12695e77951472fca7d325b70e505"><img src="http://pierre-petillion.fr/photos/competence/rootme.png" width="48" height="48" alt="Sass" />
       <br>Rootme</a>
     </td>
