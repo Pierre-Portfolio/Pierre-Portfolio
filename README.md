@@ -219,7 +219,7 @@
       <br>Twitch</a>
     </td>
     <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="44" height="44" alt="LinkedIn" />
+        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="http://pierre-petillion.fr/photos/competence/LinkedIn.png" width="48" height="48" alt="LinkedIn" />
       <br>LinkedIn</a>
     </td>
     <td align="center" width="96">
@@ -227,11 +227,11 @@
       <br>Youtube</a>
     </td>
     <td align="center" width="96">
-      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="44" height="44" alt="React" />
+      <a href=https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
       <br>SpeedRun</a>
     </td>
-    <td style="padding-right:10px;" align="center" width="96">
-        <a href="https://www.chess.com/member/trynjitsu"><img src="http://pierre-petillion.fr/photos/competence/Chess.png" width="44" height="44" alt="Bootstrap" />
+    <td align="center" width="96">
+        <a href="https://www.chess.com/member/trynjitsu"><img src="http://pierre-petillion.fr/photos/competence/Chess.png" width="48" height="48" alt="Bootstrap" />
       <br>Chess.com</a>
     </td>
     <td align="center" width="96">
