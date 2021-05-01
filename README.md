@@ -246,4 +246,4 @@
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
 
-<img clip-path="circle(40%)" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=2&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px"/>
