@@ -130,7 +130,7 @@
     </td>
     <td align="center" width="96">
         <img src="http://pierre-petillion.fr/photos/competence/Switch.png" width="48" height="48" alt="Sass" />
-      <br>Switch
+      <br>Swift
     </td>
   </tr>
 </table>
