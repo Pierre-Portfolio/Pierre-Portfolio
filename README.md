@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/picture/name2.svg" alt="Marton Lederer" />
+  <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/name2.svg" alt="Marton Lederer" />
 </h1>
 <p align="center">Hey ! My name is Pierre and an engineering student in computer science</p>
 
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="http://pierre-petillion.fr/photos/competence/Qt_Creator.png" width="48" height="48" alt="C#" />
+        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="C#" />
       <br>Qt Creator
     </td>
     <td align="center" width="96">
