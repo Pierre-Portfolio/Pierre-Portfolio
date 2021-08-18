@@ -203,7 +203,7 @@
       <br>Discord</a>
     </td>
     <td align="center" width="96">  
-        <a href="https://www.snapchat.com/add/trynjitsu"><img src="./photos/competence/snapcode.png" width="48" height="48" alt="Snapchat" />
+        <a href="https://www.snapchat.com/add/trynjitsu"><img src="./photos/competence/snap.svg" width="48" height="48" alt="Snapchat" />
       <br>Snapchat</a>
     </td>
     <td align="center" width="96"> 
