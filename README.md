@@ -72,11 +72,11 @@
     </td>
     <td align="center" width="96">    
         <img src="./photos/competence/Visual_Studio.png" width="48" height="48" alt="Python" />   
-      <br>Visual Studio
+      <br>Studio
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="Golang" />  
-      <br>Visual Code
+      <br>Code
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Xampp.png" width="48" height="48" alt="Jsonnet" />   
