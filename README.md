@@ -13,50 +13,50 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="C#" />
-      <br>Qt Creator
+        <img src="./photos/competence/Access.png" width="48" height="48" alt="C#" />
+      <br>Access
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Python" />
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Oracle.png" width="48" height="48" alt="Golang" /> 
-      <br>Oracle
+        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Golang" /> 
+      <br>Code::Blocks
     </td>
     <td align="center" width="96">   
-        <img src="./photos/competence/Xcode.png" width="48" height="48" alt="Jsonnet" />    
-      <br>Xcode
+        <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Jsonnet" />    
+      <br>Eclipse
     </td> 
     <td align="center" width="96">     
-        <img src="./photos/competence/Unity.png" width="48" height="48" alt="JavaScript" />     
-      <br>Unity
+        <img src="./photos/competence/GitBash.png" width="48" height="48" alt="Python" />      
+      <br>GitBash
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="C#" />     
-      <br>Eclipse
+        <img src="./photos/competence/GitLab.png" width="48" height="48" alt="C#" />     
+      <br>GitLab
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/anaconda.png" width="48" height="48" alt="Python" />      
-      <br>Anaconda
+        <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Python" />      
+      <br>Jupyter
     </td>
     <td align="center" width="96">     
-        <img src="./photos/competence/Visual_Studio.png" width="48" height="48" alt="Golang" />    
-      <br>Visual
+        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Golang" />    
+      <br>Mysql
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="JavaScript" />   
-      <br>R Studio
+        <img src="./photos/competence/NodeJs.png" width="48" height="48" alt="JavaScript" />   
+      <br>NodeJs
     </td>
   </tr>
   <tr>
     <td align="center" width="96">     
-        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Python" />   
-      <br>Code::Blocks
+        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Python" />   
+      <br>Qt Creator
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/Terminale.png" width="48" height="48" alt="Golang" />    
-      <br>Terminal
+        <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="Golang" />    
+      <br>R Studio
     </td>
     <td align="center" width="96">  
         <img src="./photos/competence/NodeJs.png" width="48" height="48" alt="Jsonnet" />  
