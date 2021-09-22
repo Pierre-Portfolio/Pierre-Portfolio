@@ -59,32 +59,32 @@
       <br>R Studio
     </td>
     <td align="center" width="96">  
-        <img src="./photos/competence/NodeJs.png" width="48" height="48" alt="Jsonnet" />  
-      <br>NodeJs
+        <img src="./photos/competence/spyder.png" width="48" height="48" alt="Jsonnet" />  
+      <br>Spyder
     </td> 
     <td align="center" width="96">    
-        <img src="./photos/competence/Access.png" width="48" height="48" alt="JavaScript" />     
-      <br>Access
+        <img src="./photos/competence/Terminale.png" width="48" height="48" alt="JavaScript" />     
+      <br>Terminale
     </td>
     <td align="center" width="96">   
-        <img src="./photos/competence/Geany.png" width="48" height="48" alt="C#" />    
-      <br>Geany
+        <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
+      <br>Unity
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/VirtualBox.png" width="48" height="48" alt="Python" />   
-      <br>Oracle
+        <img src="./photos/competence/Visual_Studio.png" width="48" height="48" alt="Python" />   
+      <br>Visual Studio
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Xampp.png" width="48" height="48" alt="Golang" />  
-      <br>Xampp
+        <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="Golang" />  
+      <br>Visual Code
     </td>
     <td align="center" width="96">   
-        <img src="./photos/competence/Marionnet.png" width="48" height="48" alt="Jsonnet" />   
-      <br>Marionnet
+        <img src="./photos/competence/Xampp.png" width="48" height="48" alt="Jsonnet" />   
+      <br>Xampp
     </td> 
     <td align="center" width="96"> 
-        <img src="./photos/competence/mysql.png" width="48" height="48" alt="JavaScript" /> 
-      <br>MySql
+        <img src="./photos/competence/Xcode.png" width="48" height="48" alt="JavaScript" /> 
+      <br>Xcode
     </td>
   </tr>
 </table>
