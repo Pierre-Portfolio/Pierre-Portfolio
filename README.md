@@ -246,4 +246,4 @@
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
 
-<codersrank-summary username="pierre-portfolio" layout="vertical"></codersrank-summary>
+[//]: <>  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px"/>
