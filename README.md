@@ -64,7 +64,7 @@
     </td> 
     <td align="center" width="96">    
         <img src="./photos/competence/Terminale.png" width="48" height="48" alt="JavaScript" />     
-      <br>Terminale
+      <br>Terminal
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
