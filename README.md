@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/name2.svg" alt="Marton Lederer" />
 </h1>
-<p align="center">Hey ! My name is Pierre and an engineering student in computer science</p>
+<p align="center">Hey ! My name is Pierre and i'm an ingineering student</p>
 
 ---
 
