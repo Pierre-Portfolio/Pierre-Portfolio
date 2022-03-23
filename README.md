@@ -197,9 +197,9 @@
    </td>
   </tr>
   <tr>
-    <td align="center" width="360">
+    <td align="center" width="384">
         <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="384" height="60" alt="Youtube" />
+			<img src="./photos/banner/Youtube.png" width="360" height="60" alt="Youtube" />
 		</a>
     </td>
 
@@ -210,9 +210,9 @@
 		</a>
     </td>
 
-    <td align="center" width="360">
+    <td align="center" width="384">
         <a href="https://www.twitch.tv/trynjutsu">
-			<img src="./photos/banner/Twitch.png" width="384" height="60" alt="Twitch" />
+			<img src="./photos/banner/Twitch.png" width="360" height="60" alt="Twitch" />
 		</a>
     </td>
   </tr>
