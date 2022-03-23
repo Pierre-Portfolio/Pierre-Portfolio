@@ -199,17 +199,17 @@
   <tr>
     <td align="center" width="288">
         <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="274" height="60" alt="Youtube" />
+			<img src="./photos/banner/Youtube.png" width="274" height="64" alt="Youtube" />
 		</a>
 	</td>
 	    <td align="center" width="288">
         <a href="https://www.speedrun.com/user/Trynjitsu" >
-			<img src="./photos/banner/SpeedRun.png" width="274" height="60" alt="SpeedRun" />
+			<img src="./photos/banner/SpeedRun.png" width="274" height="64" alt="SpeedRun" />
 		</a>
 	</td>
 	<td align="center" width="288">
 		<a href="https://www.twitch.tv/trynjutsu">
-			<img src="./photos/banner/Twitch.png" width="274" height="60" alt="Twitch" />
+			<img src="./photos/banner/Twitch.png" width="274" height="64" alt="Twitch" />
 		</a>
     </td>
   </tr>
