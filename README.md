@@ -192,7 +192,7 @@
 
 <table align="center">
   <tr>
-   <td colspan="1" align="center"> 
+   <td colspan="2" align="center"> 
         📃 Follow me
    </td>
   </tr>
