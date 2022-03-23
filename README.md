@@ -192,54 +192,6 @@
  
 ![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px)
 
-<!--
-<table>
-  <tr>
-   <td colspan="9" align="center"> 
-        📃 Follow me
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-        <a href="https://discord.gg/v98A3GENaU"><img src="./photos/competence/Discord.png" width="48" height="48" alt="Discord" />
-      <br>Discord</a>
-    </td>
-    <td align="center" width="96">  
-        <a href="https://www.snapchat.com/add/trynjitsu"><img src="./photos/competence/snap.svg" width="48" height="48" alt="Snapchat" />
-      <br>Snapchat</a>
-    </td>
-    <td align="center" width="96"> 
-        <a href="https://www.facebook.com/profile.php?id=100011270256643"><img src="./photos/competence/Facebook.png" width="48" height="48" alt="Facebook" />
-      <br>Facebook</a>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/competence/Twitch.png" width="48" height="48" alt="Twitch" />
-      <br>Twitch</a>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/pierre-p-91447a1a1/"><img src="./photos/competence/LinkedIn.png" width="48" height="48" alt="LinkedIn" />
-      <br>LinkedIn</a>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about"><img src="./photos/competence/Youtube.png" width="48" height="48" alt="JavaScript" />
-      <br>Youtube</a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
-      <br>SpeedRun</a>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.chess.com/member/trynjitsu"><img src="./photos/competence/Chess.png" width="48" height="48" alt="Bootstrap" />
-      <br>Chess.com</a>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.root-me.org/Elipse?lang=fr#7cd12695e77951472fca7d325b70e505"><img src="./photos/competence/rootme.png" width="48" height="48" alt="Sass" />
-      <br>Rootme</a>
-    </td>
-  </tr>
-</table>
--->
-
 <table>
   <tr>
    <td colspan="9" align="center"> 
@@ -257,7 +209,7 @@
     </td>
 
     <td align="center" width="384">
-        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="70" alt="Twitch" /></a>
+        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="60" alt="Twitch" /></a>
     </td>
   </tr>
 </table>
