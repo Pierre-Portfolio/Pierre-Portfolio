@@ -242,5 +242,5 @@
 
 <!-- [App Screenshot](https://counter9.stat.ovh/private/compteurdevisite.php?c=dzct1uqm5lpgwmqn18387dkn26w125w5) -->
 
-<!--
-![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px) -->
+
+![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px)
