@@ -192,16 +192,23 @@
 
 <table>
   <tr>
-   <td colspan="9" align="center"> 
+   <td colspan="3" align="center"> 
         📃 Follow me
     </td>
   </tr>
   <tr>
 
+    <td align="center" width="384">
+        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about"><img src="./photos/banner/Youtube.png" width="384" height="60" alt="Youtube" /></a>
+    </td>
 
     <td align="center" width="96">
         <a href="https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
       <br>SpeedRun</a>
+    </td>
+
+    <td align="center" width="384">
+        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="60" alt="Twitch" /></a>
     </td>
   </tr>
 </table>
