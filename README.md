@@ -199,7 +199,7 @@
   <tr>
 
     <td align="center" width="384">
-        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="60" alt="Twitch" /></a>
+        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="40" alt="Twitch" /></a>
     </td>
 
     <td align="center" width="384">
