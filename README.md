@@ -201,6 +201,9 @@
         <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
 			<img src="./photos/banner/Youtube.png" width="360" height="60" alt="Youtube" />
 		</a>
+		<a href="https://www.twitch.tv/trynjutsu">
+			<img src="./photos/banner/Twitch.png" width="360" height="60" alt="Twitch" />
+		</a>
     </td>
 
     <td align="center" width="96">
