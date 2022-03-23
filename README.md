@@ -246,5 +246,6 @@
   Visitor Count
   <br>
   <br>
-  ![App Screenshot](https://counter9.stat.ovh/private/compteurdevisite.php?c=dzct1uqm5lpgwmqn18387dkn26w125w5)
 </p>
+  ![App Screenshot](https://counter9.stat.ovh/private/compteurdevisite.php?c=dzct1uqm5lpgwmqn18387dkn26w125w5)
+
