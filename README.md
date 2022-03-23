@@ -5,7 +5,7 @@
 
 ---
 
-<table>
+<table align="center">
    <tr>
    <td colspan="9" align="center">
         💼 IDE Tools
