@@ -203,7 +203,7 @@
 		</a>
 	</td>
 	    <td align="center" width="288">
-        <a href=https://www.speedrun.com/user/Trynjitsu" >
+        <a href="https://www.speedrun.com/user/Trynjitsu" >
 			<img src="./photos/banner/SpeedRun.png" width="264" height="60" alt="SpeedRun" />
 		</a>
 	</td>
