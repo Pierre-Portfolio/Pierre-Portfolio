@@ -192,6 +192,7 @@
  
 ![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px)
 
+<!--
 <table>
   <tr>
    <td colspan="9" align="center"> 
@@ -234,6 +235,29 @@
     <td align="center" width="96">
         <a href="https://www.root-me.org/Elipse?lang=fr#7cd12695e77951472fca7d325b70e505"><img src="./photos/competence/rootme.png" width="48" height="48" alt="Sass" />
       <br>Rootme</a>
+    </td>
+  </tr>
+</table>
+-->
+
+<table>
+  <tr>
+   <td colspan="9" align="center"> 
+        📃 Follow me
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="384">
+        <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="48" alt="Twitch" />
+      <br>Twitch</a>
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
+      <br>SpeedRun</a>
+    </td>
+    <td align="center" width="384">
+        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about"><img src="./photos/banner/Youtube.png" width="384" height="48" alt="Youtube" />
+      <br>Youtube</a>
     </td>
   </tr>
 </table>
