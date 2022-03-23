@@ -89,7 +89,7 @@
   </tr>
 </table>
 <br>
-<table>
+<table align="center">
   <tr>
    <td colspan="9" align="center"> 
         🔨 Object-Oriented Programming   
@@ -135,7 +135,7 @@
   </tr>
 </table>
 <br>
-<table>
+<table align="center">
    <tr>
    <td colspan="5" align="center">
         ✏️ Web Programming
