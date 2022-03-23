@@ -189,8 +189,6 @@
 | <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Pierre-Portfolio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />| <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> |
 
 <br>
- 
-![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px)
 
 <table>
   <tr>
@@ -199,15 +197,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="384">
-        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about"><img src="./photos/banner/Youtube.png" width="384" height="40" alt="Youtube" /></a>
-    </td>
-
-    <td align="center" width="96">
-        <a href="https://www.speedrun.com/user/Trynjitsu" ><img src="https://avatars.githubusercontent.com/u/11006616?s=200&v=4" width="48" height="48" alt="React" />
-      <br>SpeedRun</a>
-    </td>
-
     <td align="center" width="384">
         <a href="https://www.twitch.tv/trynjutsu"><img src="./photos/banner/Twitch.png" width="384" height="60" alt="Twitch" /></a>
     </td>
@@ -222,5 +211,10 @@
   <br>
   <img src="https://profile-counter.glitch.me/Pierre-Portfolio/count.svg" />
 </p>
+
+
+
 <!-- [App Screenshot](https://counter9.stat.ovh/private/compteurdevisite.php?c=dzct1uqm5lpgwmqn18387dkn26w125w5) -->
 
+<!--
+![App Screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px) -->
