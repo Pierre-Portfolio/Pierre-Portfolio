@@ -192,19 +192,24 @@
 
 <table align="center">
   <tr>
-   <td colspan="2" align="center"> 
+   <td colspan="3" align="center"> 
         📃 Follow me
    </td>
   </tr>
   <tr>
-    <td align="center" width="384">
+    <td align="center" width="288">
         <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="360" height="60" alt="Youtube" />
+			<img src="./photos/banner/Youtube.png" width="264" height="60" alt="Youtube" />
 		</a>
 	</td>
-	<td align="center" width="384">
+	    <td align="center" width="288">
+        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
+			<img src="./photos/banner/Youtube.png" width="264" height="60" alt="Youtube" />
+		</a>
+	</td>
+	<td align="center" width="288">
 		<a href="https://www.twitch.tv/trynjutsu">
-			<img src="./photos/banner/Twitch.png" width="360" height="60" alt="Twitch" />
+			<img src="./photos/banner/Twitch.png" width="264" height="60" alt="Twitch" />
 		</a>
     </td>
   </tr>
