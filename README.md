@@ -197,12 +197,12 @@
    </td>
   </tr>
   <tr>
-    <td align="center" width="864">
+    <td align="center" width="384">
         <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="860" height="60" alt="Youtube" />
+			<img src="./photos/banner/Youtube.png" width="360" height="60" alt="Youtube" />
 		</a>
 		<a href="https://www.twitch.tv/trynjutsu">
-			<img src="./photos/banner/Twitch.png" width="860" height="60" alt="Twitch" />
+			<img src="./photos/banner/Twitch.png" width="360" height="60" alt="Twitch" />
 		</a>
     </td>
   </tr>
