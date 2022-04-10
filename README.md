@@ -13,39 +13,39 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Python" />
+        <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/bash.png" width="48" height="48" alt="C#" />
+        <img src="./photos/competence/bash.png" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="C#" />     
+        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Bootstrap" />     
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Golang" /> 
+        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
       <br>Code::Blocks
     </td>
     <td align="center" width="96">   
-        <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Jsonnet" />    
+        <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
       <br>Eclipse
     </td> 
     <td align="center" width="96">     
-        <img src="./photos/competence/GitBash.png" width="48" height="48" alt="Python" />      
+        <img src="./photos/competence/GitBash.png" width="48" height="48" alt="GitBash" />      
       <br>GitBash
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Python" />      
+        <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
     </td>
     <td align="center" width="96">     
-        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Golang" />    
+        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>Mysql
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="JavaScript" />   
+        <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
     </td>
   </tr>
