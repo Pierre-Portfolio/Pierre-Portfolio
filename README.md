@@ -40,6 +40,10 @@
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
     </td>
+    <td align="center" width="96">   
+        <img src="./photos/competence/laragon.png" width="48" height="48" alt="Laragon" />   
+      <br>Laragon
+    </td> 
     <td align="center" width="96">     
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>Mysql
@@ -78,10 +82,6 @@
         <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="Golang" />  
       <br>Code
     </td>
-    <td align="center" width="96">   
-        <img src="./photos/competence/laragon.png" width="48" height="48" alt="Laragon" />   
-      <br>Laragon
-    </td> 
     <td align="center" width="96"> 
         <img src="./photos/competence/Xcode.png" width="48" height="48" alt="JavaScript" /> 
       <br>Xcode
