@@ -55,16 +55,16 @@
       <br>Qt Creator
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="Golang" />    
+        <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="RStudio" />    
       <br>R Studio
     </td>
     <td align="center" width="96">  
-        <img src="./photos/competence/spyder.png" width="48" height="48" alt="Jsonnet" />  
+        <img src="./photos/competence/spyder2.png" width="48" height="48" alt="Spyder" />  
       <br>Spyder
     </td> 
     <td align="center" width="96">    
-        <img src="./photos/competence/Terminale.png" width="48" height="48" alt="JavaScript" />     
-      <br>Terminal
+        <img src="./photos/competence/ssms.png" width="48" height="48" alt="Sql Management" />     
+      <br>Sql Management
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
