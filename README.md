@@ -13,12 +13,16 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./photos/competence/Access.png" width="48" height="48" alt="C#" />
-      <br>Access
-    </td>
-    <td align="center" width="96">
         <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Python" />
       <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/bash.png" width="48" height="48" alt="C#" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">    
+        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="C#" />     
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Golang" /> 
@@ -33,10 +37,6 @@
       <br>GitBash
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/GitLab.png" width="48" height="48" alt="C#" />     
-      <br>GitLab
-    </td>
-    <td align="center" width="96">    
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Python" />      
       <br>Jupyter
     </td>
@@ -45,7 +45,7 @@
       <br>Mysql
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/NodeJs.png" width="48" height="48" alt="JavaScript" />   
+        <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="JavaScript" />   
       <br>NodeJs
     </td>
   </tr>
