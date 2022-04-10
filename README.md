@@ -48,12 +48,12 @@
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>Mysql
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">    
         <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">     
         <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Python" />   
       <br>Qt Creator
