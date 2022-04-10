@@ -79,8 +79,8 @@
       <br>Code
     </td>
     <td align="center" width="96">   
-        <img src="./photos/competence/Xampp.png" width="48" height="48" alt="Jsonnet" />   
-      <br>Xampp
+        <img src="./photos/competence/laragon.png" width="48" height="48" alt="Laragon" />   
+      <br>Laragon
     </td> 
     <td align="center" width="96"> 
         <img src="./photos/competence/Xcode.png" width="48" height="48" alt="JavaScript" /> 
