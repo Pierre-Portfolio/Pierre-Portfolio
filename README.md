@@ -55,8 +55,8 @@
       <br>NodeJs
     </td>
     <td align="center" width="96">     
-        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Python" />   
-      <br>Qt Creator
+        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Creator" />   
+      <br>Creator
     </td>
     <td align="center" width="96">    
         <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="RStudio" />    
@@ -68,7 +68,7 @@
     </td> 
     <td align="center" width="96">    
         <img src="./photos/competence/ssms.png" width="48" height="48" alt="Sql Management" />     
-      <br>Sql Management
+      <br>Management
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
