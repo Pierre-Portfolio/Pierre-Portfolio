@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/name2.svg" alt="Marton Lederer" />
+  <img src="Pierre.gif" alt="Title" />
 </h1>
 <p align="center">Hey ! My name is Pierre and i'm a computer science student</p>
 
