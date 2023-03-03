@@ -92,7 +92,7 @@
 <table align="center">
   <tr>
    <td colspan="9" align="center"> 
-        🔨 Programming Langage 
+        🔨 Programming Languages 
     </td>
   </tr>
   <tr>
