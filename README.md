@@ -92,7 +92,7 @@
 <table align="center">
   <tr>
    <td colspan="9" align="center"> 
-        🔨 Object-Oriented Programming   
+        🔨 Programming Langage 
     </td>
   </tr>
   <tr>
