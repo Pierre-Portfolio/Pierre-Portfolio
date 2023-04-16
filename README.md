@@ -229,7 +229,6 @@
   </tr>
 </table>
 
-<!-- 
 ---
 
 <p align="center"> 
@@ -238,7 +237,5 @@
   <br>
   <img src="http://habbogalaxie.fr:81/count" />
 </p>
-
+	
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
-
--->
