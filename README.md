@@ -32,6 +32,10 @@
         <img src="./photos/competence/django.png" width="48" height="48" alt="Django" />      
       <br>Django
     </td>
+    <td align="center" width="96">    
+        <img src="./photos/competence/docker.png" width="48" height="48" alt="Docker" />     
+      <br>Docker
+    </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
       <br>Eclipse
@@ -44,12 +48,12 @@
         <img src="./photos/competence/laragon.png" width="48" height="48" alt="Laragon" />   
       <br>Laragon
     </td> 
+  </tr>
+  <tr>
     <td align="center" width="96">     
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">    
         <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
@@ -66,10 +70,6 @@
         <img src="./photos/competence/spyder2.png" width="48" height="48" alt="Spyder" />  
       <br>Spyder
     </td> 
-    <td align="center" width="96">    
-        <img src="./photos/competence/docker.png" width="48" height="48" alt="Docker" />     
-      <br>Docker
-    </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
       <br>Unity
