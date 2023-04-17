@@ -21,8 +21,8 @@
       <br>Bash
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Bootstrap" />     
-      <br>Bootstrap
+        <img src="./photos/competence/FileZilla.png" width="48" height="48" alt="FileZilla" />     
+      <br>FileZilla
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
