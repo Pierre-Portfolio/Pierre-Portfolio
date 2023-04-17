@@ -125,8 +125,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
-      <br>Qt Creator
+        <img src="./photos/competence/qt.png" width="48" height="48" alt="Qt" />
+      <br>Qt
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/Switch.png" width="48" height="48" alt="Sass" />
