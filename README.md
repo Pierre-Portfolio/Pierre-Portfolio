@@ -20,10 +20,6 @@
         <img src="./photos/competence/bash.png" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
-    <td align="center" width="96">    
-        <img src="./photos/competence/FileZilla.png" width="48" height="48" alt="FileZilla" />     
-      <br>FileZilla
-    </td>
     <td align="center" width="96">
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
       <br>CodeBlocks
@@ -39,7 +35,11 @@
     <td align="center" width="96">   
         <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
       <br>Eclipse
-    </td> 
+    </td>
+    <td align="center" width="96">    
+        <img src="./photos/competence/FileZilla.png" width="48" height="48" alt="FileZilla" />     
+      <br>FileZilla
+    </td>
     <td align="center" width="96">    
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
