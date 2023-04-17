@@ -147,11 +147,11 @@
   <tr>
     <td align="center" width="96">
         <img src="./photos/competence/web.png" width="48" height="48" alt="C#" />
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/css.png" width="48" height="48" alt="Python" />
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/sql.png" width="48" height="48" alt="Golang" />
