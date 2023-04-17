@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
-      <br>Code Blocks
+      <br>Code::Blocks
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
@@ -231,11 +231,12 @@
 
 ---
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
+	
+
 <p align="center"> 
   Visitor Count
   <br>
   <br>
-  <img src="http://habbogalaxie.fr:81/count" />
+  <img src="https://spotless-sunbonnet-cow.cyclic.app/count" />
 </p>
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
