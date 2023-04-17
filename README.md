@@ -28,14 +28,14 @@
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
       <br>CodeBlocks
     </td>
+      <td align="center" width="96">     
+        <img src="./photos/competence/django.png" width="48" height="48" alt="Django" />      
+      <br>Django
+    </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
       <br>Eclipse
     </td> 
-    <td align="center" width="96">     
-        <img src="./photos/competence/GitBash.png" width="48" height="48" alt="GitBash" />      
-      <br>GitBash
-    </td>
     <td align="center" width="96">    
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
       <br>Jupyter
@@ -67,7 +67,7 @@
       <br>Spyder
     </td> 
     <td align="center" width="96">    
-        <img src="./photos/competence/ssms.png" width="48" height="48" alt="Sql Management" />     
+        <img src="./photos/competence/docker.png" width="48" height="48" alt="Docker" />     
       <br>SQL Server
     </td>
     <td align="center" width="96">   
