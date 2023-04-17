@@ -2,11 +2,9 @@
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
 
----
-
 🤖 Artificial Inteligence                                           
 💻 Software Development
-🌐 Web Development</p>
+🌐 Web Development
 
 ---
 
