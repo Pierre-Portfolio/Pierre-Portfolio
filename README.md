@@ -1,7 +1,12 @@
 <h1 align="center">
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
-<p align="center">Hey ! Im 23 years old and i'm a computer science student</p>
+
+---
+
+🤖 Artificial Inteligence                                           
+💻 Software Development
+🌐 Web Development</p>
 
 ---
 
