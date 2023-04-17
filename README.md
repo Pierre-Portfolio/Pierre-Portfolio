@@ -20,21 +20,25 @@
         <img src="./photos/competence/bash.png" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
-    <td align="center" width="96">    
-        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Bootstrap" />     
-      <br>Bootstrap
-    </td>
     <td align="center" width="96">
         <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
-      <br>Code::Blocks
+      <br>CodeBlocks
+    </td>
+      <td align="center" width="96">     
+        <img src="./photos/competence/django.png" width="48" height="48" alt="Django" />      
+      <br>Django
+    </td>
+    <td align="center" width="96">    
+        <img src="./photos/competence/docker.png" width="48" height="48" alt="Docker" />     
+      <br>Docker
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Eclipse.png" width="48" height="48" alt="Eclipse" />    
       <br>Eclipse
-    </td> 
-    <td align="center" width="96">     
-        <img src="./photos/competence/GitBash.png" width="48" height="48" alt="GitBash" />      
-      <br>GitBash
+    </td>
+    <td align="center" width="96">    
+        <img src="./photos/competence/FileZilla.png" width="48" height="48" alt="FileZilla" />     
+      <br>FileZilla
     </td>
     <td align="center" width="96">    
         <img src="./photos/competence/jupyter.png" width="48" height="48" alt="Jupyter" />      
@@ -44,19 +48,19 @@
         <img src="./photos/competence/laragon.png" width="48" height="48" alt="Laragon" />   
       <br>Laragon
     </td> 
-    <td align="center" width="96">     
-        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
-      <br>Mysql
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">     
+        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
+      <br>MySQL
+    </td>
     <td align="center" width="96">    
         <img src="./photos/competence/NodeJs2.png" width="48" height="48" alt="NodeJs" />   
       <br>NodeJs
     </td>
     <td align="center" width="96">     
         <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Creator" />   
-      <br>Creator
+      <br>QtCreator
     </td>
     <td align="center" width="96">    
         <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="RStudio" />    
@@ -66,10 +70,6 @@
         <img src="./photos/competence/spyder2.png" width="48" height="48" alt="Spyder" />  
       <br>Spyder
     </td> 
-    <td align="center" width="96">    
-        <img src="./photos/competence/ssms.png" width="48" height="48" alt="Sql Management" />     
-      <br>Management
-    </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
       <br>Unity
@@ -125,8 +125,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/qt.png" width="48" height="48" alt="Bootstrap" />
-      <br>Qt Creator
+        <img src="./photos/competence/qt.png" width="48" height="48" alt="Qt" />
+      <br>Qt
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/Switch.png" width="48" height="48" alt="Sass" />
@@ -147,11 +147,11 @@
   <tr>
     <td align="center" width="96">
         <img src="./photos/competence/web.png" width="48" height="48" alt="C#" />
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/css.png" width="48" height="48" alt="Python" />
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/sql.png" width="48" height="48" alt="Golang" />
