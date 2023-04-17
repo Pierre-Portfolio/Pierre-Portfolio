@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">     
         <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Creator" />   
-      <br>Creator
+      <br>Qt Creator
     </td>
     <td align="center" width="96">    
         <img src="./photos/competence/R_Studio.png" width="48" height="48" alt="RStudio" />    
