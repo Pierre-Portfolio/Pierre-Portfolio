@@ -2,8 +2,6 @@
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
 
----
-
 <table align="center">
    <tr>
    <td colspan="9" align="center">
