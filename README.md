@@ -68,7 +68,7 @@
     </td> 
     <td align="center" width="96">    
         <img src="./photos/competence/ssms.png" width="48" height="48" alt="Sql Management" />     
-      <br>Management
+      <br>Sql Server
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
