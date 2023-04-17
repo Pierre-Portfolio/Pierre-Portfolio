@@ -68,7 +68,7 @@
     </td> 
     <td align="center" width="96">    
         <img src="./photos/competence/docker.png" width="48" height="48" alt="Docker" />     
-      <br>SQL Server
+      <br>Docker
     </td>
     <td align="center" width="96">   
         <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
