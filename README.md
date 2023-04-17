@@ -46,7 +46,7 @@
     </td> 
     <td align="center" width="96">     
         <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
-      <br>Mysql
+      <br>MySQL
     </td>
   </tr>
   <tr>
