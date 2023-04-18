@@ -180,7 +180,9 @@
     </td>
   </tr>
 </table>
-<br>
+
+---
+
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
@@ -239,6 +241,8 @@
   </tr>
 </table>
 
+---
+
 <!--
 <table align="center">
   <tr>
@@ -265,8 +269,6 @@
   </tr>
 </table>
 -->
-
-<br>
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
 	
