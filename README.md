@@ -192,7 +192,7 @@
         🌺 CSS
    </td>
    <td align="center" width="288" height="64"> 
-        🤖 Artificial Inteligence
+        🤖 Artificial Intelligence
    </td>
    <td align="center" width="288" height="64">
         🔑 CyberSecurity
