@@ -214,7 +214,7 @@
         🤖 Artificial Inteligence
    </td>
    <td align="center" width="288" height="64">
-        🔒 CyberSecurity
+        🔑 CyberSecurity
    </td>
   </tr>
   <tr>
