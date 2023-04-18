@@ -138,7 +138,7 @@
         ✏️ Web Programming
     </td>
     <td colspan="4" align="center">
-        ✏️ Front Framework
+        ✏️ Framework
     </td>
   </tr>
   <tr>
