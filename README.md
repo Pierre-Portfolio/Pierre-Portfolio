@@ -232,11 +232,8 @@
 <br>
 <table align="center">
   <tr>
-    <td colspan="7" align="center"> 
+    <td colspan="9" align="center"> 
         📖 Machine Learning Librairies
-    </td>
-    <td colspan="2" align="center"> 
-        📖 WebScrapping
     </td>
   </tr>
   <tr>
