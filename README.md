@@ -208,7 +208,7 @@
   </tr>
   <tr>
    <td align="center" width="288" height="64">
-        🌺 Css
+        🌺 CSS
    </td>
    <td align="center" width="288" height="64"> 
         🤖 Artificial Inteligence
