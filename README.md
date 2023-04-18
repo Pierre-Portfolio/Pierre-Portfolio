@@ -298,7 +298,7 @@
       <a href="https://cssbattle.dev/player/trynjitsu">
 			  <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
 		  </a>
-      <p align="center">⭐ 600 points</p> 
+      <p align="center">⭐ 1577 points</p> 
 	  </td>
 	  <td align="center" width="288" height="64">
       <a href="https://www.kaggle.com/pierreelipse" >
