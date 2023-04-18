@@ -138,7 +138,7 @@
         ✏️ Web Programming
     </td>
     <td colspan="4" align="center">
-       🌱 OS
+        ✏️ Front Framework
     </td>
   </tr>
   <tr>
@@ -164,6 +164,59 @@
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/debian.png" width="48" height="48" alt="Python" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Ubuntu.png" width="48" height="48" alt="Golang" />
+      <br>Tailwind 
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
+      <br>React
+    </td> 
+    <td align="center" width="96">
+        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+      <br>Vue
+    </td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr>
+  <td colspan="5" align="center"> 
+        🗃️ Big Data
+    </td>
+   <td colspan="4" align="center">
+        🌱 OS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elastic" />
+      <br>Elastic Search
+    </td>
+    <td align="center" width="96">  
+        <img src="./photos/competence/mongodb.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/neo4j.png" width="48" height="48" alt="neo4j.png" />
+      <br>Neo4j
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/tableau.png" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/power-bi.png" width="48" height="48" alt="PowerBI" />
+      <br>PowerBI
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/debian.png" width="48" height="48" alt="Python" />
       <br>Debian
     </td>
     <td align="center" width="96">
@@ -174,10 +227,6 @@
         <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
       <br>Rasberry
     </td> 
-    <td align="center" width="96">
-        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
-      <br>Android
-    </td>
   </tr>
 </table>
 <br>
