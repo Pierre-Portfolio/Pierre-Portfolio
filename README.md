@@ -180,7 +180,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 <table align="center">
   <tr>
    <td colspan="1" align="center"> 
@@ -198,9 +198,8 @@
 		<img height="124" width="384" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	</td>
   </tr>
-
+</table>
 <br>
-
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
