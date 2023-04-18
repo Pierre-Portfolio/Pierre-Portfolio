@@ -232,6 +232,55 @@
 <br>
 <table align="center">
   <tr>
+    <td colspan="7" align="center"> 
+        📖 Machine Learning Librairies
+    </td>
+    <td colspan="2" align="center"> 
+        📖 WebScrapping
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/hf.png" width="48" height="48" alt="HuggingFace" />
+      <br>HuggingFace
+    </td>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/Keras.png" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/pandas.png" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">  
+        <img src="./photos/competence/PyTorch.png" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/scikit-learn.png" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/seaborn.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/qt.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Switch.png" width="48" height="48" alt="BeautifulSoup" />
+      <br>BeautifulSoup
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="Selenium" />
+      <br>Selenium
+    </td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr>
    <td colspan="3" align="center"> 
         🏴 Competition
    </td>
