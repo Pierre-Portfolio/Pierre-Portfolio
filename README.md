@@ -5,7 +5,7 @@
 <table align="center">
    <tr>
    <td colspan="9" align="center">
-        💼 IDE Tools
+        💼 Tools
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
 <table align="center">
   <tr>
    <td colspan="9" align="center"> 
-        🔨 Programming Languages 
+        🏵️ Objects Languages 
     </td>
   </tr>
   <tr>
@@ -135,10 +135,10 @@
 <table align="center">
    <tr>
    <td colspan="5" align="center">
-        ✏️ Web Programming
+        🌹 Web Languages
     </td>
     <td colspan="4" align="center">
-        ✏️ Framework
+        🌻 Framework
     </td>
   </tr>
   <tr>
@@ -177,6 +177,52 @@
     <td align="center" width="96">
         <img src="./photos/competence/Vue.png" width="48" height="48" alt="JavaScript" />
       <br>Vue
+    </td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr>
+    <td colspan="9" align="center"> 
+        📖 Machine Learning Librairies
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/hf.png" width="48" height="48" alt="HuggingFace" />
+      <br>HuggFace
+    </td>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/Keras.png" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/numpy.png" width="48" height="48" alt="BeautifulSoup" />
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/pandas.png" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">  
+        <img src="./photos/competence/PyTorch.png" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/seaborn.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/scikit-learn.png" width="48" height="48" alt="Scikit-learn" />
+      <br>Sklearn
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Selenium.png" width="48" height="48" alt="Selenium" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Tensorflow.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
   </tr>
 </table>
@@ -233,7 +279,7 @@
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        🏴 Web Site Competition
+        🏴 Competition
    </td>
   </tr>
   <tr>
