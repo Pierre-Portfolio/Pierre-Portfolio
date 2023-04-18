@@ -5,7 +5,7 @@
 <table align="center">
    <tr>
    <td colspan="9" align="center">
-        💼 IDE Tools
+        💼 Tools
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
 <table align="center">
   <tr>
    <td colspan="9" align="center"> 
-        🏵️ Programming Languages 
+        🏵️ Objects Languages 
     </td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@
 <table align="center">
    <tr>
    <td colspan="5" align="center">
-        🌹 Web Programming
+        🌹 Web Languages
     </td>
     <td colspan="4" align="center">
         🌻 Framework
