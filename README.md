@@ -163,11 +163,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/debian.png" width="48" height="48" alt="Python" />
+        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Python" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Ubuntu.png" width="48" height="48" alt="Golang" />
+        <img src="./photos/competence/Tailwind.png" width="48" height="48" alt="Golang" />
       <br>Tailwind 
     </td>
     <td align="center" width="96">
@@ -193,7 +193,7 @@
   <tr>
     <td align="center" width="96"> 
         <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elastic" />
-      <br>Elastic Search
+      <br>Elastic
     </td>
     <td align="center" width="96">  
         <img src="./photos/competence/mongodb.png" width="48" height="48" alt="MongoDB" />
