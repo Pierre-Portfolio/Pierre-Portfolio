@@ -241,8 +241,6 @@
   </tr>
 </table>
 
----
-
 <!--
 <table align="center">
   <tr>
@@ -275,7 +273,7 @@
 -->
 
 <p align="center"> 
-  Visitor Count
+  Visitor Counter
   <br>
   <br>
   <img src="https://spotless-sunbonnet-cow.cyclic.app/count" />
