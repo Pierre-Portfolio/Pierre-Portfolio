@@ -203,7 +203,18 @@
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        🏴 Web Site Challenge
+        🏴 Web Site Competition Challenge
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" align="center"> 
+        🌺 Css
+   </td>
+   <td colspan="3" align="center"> 
+        🤖 Artificial Inteligence
+   </td>
+   <td colspan="3" align="center"> 
+        🔒 CyberSecurity
    </td>
   </tr>
   <tr>
@@ -211,19 +222,19 @@
       <a href="https://cssbattle.dev/player/trynjitsu">
 			  <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
 		  </a>
-      <p align="center">⭐ 100 points</p> 
+      <p align="center">⭐ 600 points</p> 
 	  </td>
 	  <td align="center" width="288" height="64">
       <a href="https://www.kaggle.com/pierreelipse" >
 			  <img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
 		  </a>
-      <p align="center">⭐ 100 points</p> 
+      <p align="center">⭐ Unranked</p> 
     </td>
     <td align="center" width="288" height="64">
       <a href="https://www.root-me.org/Elipse?inc=info&lang=fr">
         <img src="./photos/banner/rootmelogo.jpg" width="274" height="64" alt="RootMe" />
       </a>
-      <p align="center">⭐ 100 points</p> 
+      <p align="center">⭐ 50 points</p> 
     </td>
   </tr>
 </table>
