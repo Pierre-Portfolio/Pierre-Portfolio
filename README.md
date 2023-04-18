@@ -97,10 +97,6 @@
         <img src="./photos/competence/arduino.png" width="48" height="48" alt="C#" />
       <br>Arduino
     </td>
-    <td align="center" width="96">  
-        <img src="./photos/competence/c.png" width="48" height="48" alt="Python" />
-      <br>C
-    </td>
     <td align="center" width="96"> 
         <img src="./photos/competence/csharps.png" width="48" height="48" alt="Golang" />
       <br>C#
@@ -109,9 +105,9 @@
         <img src="./photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
-      <br>VB.net
+    <td align="center" width="96">  
+        <img src="./photos/competence/flutter.png" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
@@ -129,6 +125,10 @@
         <img src="./photos/competence/Switch.png" width="48" height="48" alt="Sass" />
       <br>Swift
     </td>
+    <td align="center" width="96">
+        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
+      <br>VB.net
+    </td>
   </tr>
 </table>
 <br>
@@ -138,7 +138,7 @@
         ✏️ Web Programming
     </td>
     <td colspan="4" align="center">
-       🌱 OS
+        ✏️ Framework
     </td>
   </tr>
   <tr>
@@ -163,6 +163,59 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Python" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Tailwind.png" width="48" height="48" alt="Golang" />
+      <br>Tailwind 
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/react.png" width="48" height="48" alt="Jsonnet" />
+      <br>React
+    </td> 
+    <td align="center" width="96">
+        <img src="./photos/competence/Vue.png" width="48" height="48" alt="JavaScript" />
+      <br>Vue
+    </td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr>
+  <td colspan="5" align="center"> 
+        🗃️ Big Data
+    </td>
+   <td colspan="4" align="center">
+        🌱 OS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elastic" />
+      <br>Elastic
+    </td>
+    <td align="center" width="96">  
+        <img src="./photos/competence/mongodb.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+        <img src="./photos/competence/neo4j.png" width="48" height="48" alt="neo4j.png" />
+      <br>Neo4j
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/tableau.png" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/power-bi.png" width="48" height="48" alt="PowerBI" />
+      <br>PowerBI
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
         <img src="./photos/competence/debian.png" width="48" height="48" alt="Python" />
       <br>Debian
     </td>
@@ -174,10 +227,6 @@
         <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
       <br>Rasberry
     </td> 
-    <td align="center" width="96">
-        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
-      <br>Android
-    </td>
   </tr>
 </table>
 <br>
