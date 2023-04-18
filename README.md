@@ -207,13 +207,13 @@
    </td>
   </tr>
   <tr>
-   <td colspan="3" align="center"> 
+   <td align="center" width="288" height="64">
         🌺 Css
    </td>
-   <td colspan="3" align="center"> 
+   <td align="center" width="288" height="64"> 
         🤖 Artificial Inteligence
    </td>
-   <td colspan="3" align="center"> 
+   <td align="center" width="288" height="64">
         🔒 CyberSecurity
    </td>
   </tr>
