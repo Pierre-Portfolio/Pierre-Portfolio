@@ -186,7 +186,7 @@
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        🏴 Web Site Competition Challenge
+        🏴 Web Site Competition
    </td>
   </tr>
   <tr>
