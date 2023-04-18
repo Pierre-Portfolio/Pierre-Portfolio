@@ -2,6 +2,8 @@
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
 
+## Computer Science
+
 <table align="center">
    <tr>
    <td colspan="9" align="center">
@@ -181,7 +183,7 @@
   </tr>
 </table>
 
----
+## Challenge & Statistic
 
 <table align="center">
   <tr>
