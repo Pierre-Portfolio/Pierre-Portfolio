@@ -97,10 +97,6 @@
         <img src="./photos/competence/arduino.png" width="48" height="48" alt="C#" />
       <br>Arduino
     </td>
-    <td align="center" width="96">  
-        <img src="./photos/competence/c.png" width="48" height="48" alt="Python" />
-      <br>C
-    </td>
     <td align="center" width="96"> 
         <img src="./photos/competence/csharps.png" width="48" height="48" alt="Golang" />
       <br>C#
@@ -109,9 +105,9 @@
         <img src="./photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
-      <br>VB.net
+    <td align="center" width="96">  
+        <img src="./photos/competence/flutter.png" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
         <img src="./photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
@@ -128,6 +124,10 @@
     <td align="center" width="96">
         <img src="./photos/competence/Switch.png" width="48" height="48" alt="Sass" />
       <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
+      <br>VB.net
     </td>
   </tr>
 </table>
