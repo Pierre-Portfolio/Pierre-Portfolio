@@ -242,7 +242,7 @@
   <tr>
     <td align="center" width="96"> 
         <img src="./photos/competence/hf.png" width="48" height="48" alt="HuggingFace" />
-      <br>HuggingFace
+      <br>HuggFace
     </td>
     <td align="center" width="96"> 
         <img src="./photos/competence/Keras.png" width="48" height="48" alt="Keras" />
