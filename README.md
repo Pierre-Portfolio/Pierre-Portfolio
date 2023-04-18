@@ -171,11 +171,11 @@
       <br>Tailwind 
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./photos/competence/react.png" width="48" height="48" alt="Jsonnet" />
       <br>React
     </td> 
     <td align="center" width="96">
-        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+        <img src="./photos/competence/Vue.png" width="48" height="48" alt="JavaScript" />
       <br>Vue
     </td>
   </tr>
