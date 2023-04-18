@@ -135,10 +135,10 @@
 <table align="center">
    <tr>
    <td colspan="5" align="center">
-        ✏️ Web Programming
+        📄 Web Programming
     </td>
     <td colspan="4" align="center">
-        ✏️ Framework
+        🖼️ Framework
     </td>
   </tr>
   <tr>
