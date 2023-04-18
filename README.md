@@ -208,19 +208,22 @@
   </tr>
   <tr>
     <td align="center" width="288" height="64">
-        <a href="https://cssbattle.dev/player/trynjitsu">
-			<img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
-		</a>
-	</td>
-	    <td align="center" width="288" height="64">
-        <a href="https://www.kaggle.com/pierreelipse" >
-			<img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
-		</a>
-	</td>
-	<td align="center" width="288" height="64">
-		<a href="https://www.root-me.org/Elipse?inc=info&lang=fr">
-			<img src="./photos/banner/rootmelogo.jpg" width="274" height="64" alt="RootMe" />
-		</a>
+      <a href="https://cssbattle.dev/player/trynjitsu">
+			  <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
+		  </a>
+      <p align="center">⭐ 100 points</p> 
+	  </td>
+	  <td align="center" width="288" height="64">
+      <a href="https://www.kaggle.com/pierreelipse" >
+			  <img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
+		  </a>
+      <p align="center">⭐ 100 points</p> 
+    </td>
+    <td align="center" width="288" height="64">
+      <a href="https://www.root-me.org/Elipse?inc=info&lang=fr">
+        <img src="./photos/banner/rootmelogo.jpg" width="274" height="64" alt="RootMe" />
+      </a>
+      <p align="center">⭐ 100 points</p> 
     </td>
   </tr>
 </table>
