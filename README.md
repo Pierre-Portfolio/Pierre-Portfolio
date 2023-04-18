@@ -233,7 +233,7 @@
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        🏴 Web Site Competition
+        🏴 Competition
    </td>
   </tr>
   <tr>
