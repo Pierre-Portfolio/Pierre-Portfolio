@@ -249,6 +249,10 @@
       <br>Keras
     </td>
     <td align="center" width="96">
+        <img src="./photos/competence/numpy.png" width="48" height="48" alt="BeautifulSoup" />
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
         <img src="./photos/competence/pandas.png" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
@@ -257,24 +261,20 @@
       <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/scikit-learn.png" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
         <img src="./photos/competence/seaborn.png" width="48" height="48" alt="Seaborn" />
       <br>Seaborn
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/qt.png" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
+        <img src="./photos/competence/scikit-learn.png" width="48" height="48" alt="Scikit-learn" />
+      <br>Sklearn
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Switch.png" width="48" height="48" alt="BeautifulSoup" />
-      <br>BeautifulSoup
-    </td>
-    <td align="center" width="96">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="Selenium" />
+        <img src="./photos/competence/Selenium.png" width="48" height="48" alt="Selenium" />
       <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="./photos/competence/Tensorflow.png" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
   </tr>
 </table>
