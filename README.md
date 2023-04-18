@@ -2,8 +2,6 @@
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
 
-<h1 style="text-align: center;">Computer Science Skill</h1>
-
 <table align="center">
    <tr>
    <td colspan="9" align="center">
@@ -183,7 +181,7 @@
   </tr>
 </table>
 
-<h1 style="text-align: center;">Challenge & Statistic</h1>
+---
 
 <table align="center">
   <tr>
@@ -270,9 +268,9 @@
 </table>
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
-	
----
 -->
+
+---
 
 <p align="center"> 
   Visitor Counter
