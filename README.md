@@ -231,7 +231,7 @@
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        📃 Follow me
+        ✨ Follow me
    </td>
   </tr>
   <tr>
