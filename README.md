@@ -2,6 +2,8 @@
   <img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </h1>
 
+<h1 style="text-align: center;">Computer Science Skill</h1>
+
 <table align="center">
    <tr>
    <td colspan="9" align="center">
@@ -181,6 +183,47 @@
   </tr>
 </table>
 
+<h1 style="text-align: center;">Challenge & Statistic</h1>
+
+<table align="center">
+  <tr>
+   <td colspan="3" align="center"> 
+        🏴 Web Site Competition
+   </td>
+  </tr>
+  <tr>
+   <td align="center" width="288" height="64">
+        🌺 CSS
+   </td>
+   <td align="center" width="288" height="64"> 
+        🤖 Artificial Inteligence
+   </td>
+   <td align="center" width="288" height="64">
+        🔑 CyberSecurity
+   </td>
+  </tr>
+  <tr>
+    <td align="center" width="288" height="64">
+      <a href="https://cssbattle.dev/player/trynjitsu">
+			  <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
+		  </a>
+      <p align="center">⭐ 600 points</p> 
+	  </td>
+	  <td align="center" width="288" height="64">
+      <a href="https://www.kaggle.com/pierreelipse" >
+			  <img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
+		  </a>
+      <p align="center">⭐ Unranked</p> 
+    </td>
+    <td align="center" width="288" height="64">
+      <a href="https://www.root-me.org/Elipse?inc=info&lang=fr">
+        <img src="./photos/banner/rootmelogo.jpg" width="274" height="64" alt="RootMe" />
+      </a>
+      <p align="center">⭐ 50 points</p> 
+    </td>
+  </tr>
+</table>
+<br>
 <table align="center">
   <tr>
    <td colspan="1" align="center"> 
@@ -198,13 +241,13 @@
 		<img height="124" width="384" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Portfolio&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	</td>
   </tr>
+</table>
 
-<br>
-
+<!--
 <table align="center">
   <tr>
    <td colspan="3" align="center"> 
-        📃 Follow me
+        ✨ Follow me
    </td>
   </tr>
   <tr>
@@ -226,13 +269,13 @@
   </tr>
 </table>
 
----
-
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
 	
+---
+-->
 
 <p align="center"> 
-  Visitor Count
+  Visitor Counter
   <br>
   <br>
   <img src="https://spotless-sunbonnet-cow.cyclic.app/count" />
