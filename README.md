@@ -1,4 +1,6 @@
-<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" align="center" />
+<div align="center">
+	<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
+</div>
 
 <table align="center">
    <tr>
