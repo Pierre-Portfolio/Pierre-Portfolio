@@ -2,8 +2,6 @@
 	<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
 </div>
 
-<br>
-
 ---
 
 <br>
@@ -354,7 +352,6 @@
 
 ---
 
-<br>
 
 <p align="center"> 
   Visitor Counter
