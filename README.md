@@ -357,5 +357,5 @@
   Visitor Counter
   <br>
   <br>
-  <img src="https://spotless-sunbonnet-cow.cyclic.app/count" />
+  <img src="https://counter-visit-github.onrender.com/count" />
 </p>
