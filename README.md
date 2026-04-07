@@ -357,5 +357,5 @@
   Visitor Counter
   <br>
   <br>
-  <img src="https://counter9.stat.ovh/private/compteurdevisite.php?c=dzct1uqm5lpgwmqn18387dkn26w125w5" />
+  <img src="https://counter-visit-github.onrender.com/count" />
 </p>
