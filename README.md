@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Pierre Portfolio" />
+	<img src="./photos/Pierre.gif" alt="Pierre Portfolio" />
 </div>
 
 ---
@@ -126,11 +126,11 @@
       <br>Qt
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Switch.png" width="48" height="48" alt="Swift" />
+        <img src="./photos/competence/Swift.png" width="48" height="48" alt="Swift" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/vbnet.png" width="48" height="48" alt="VB.NET" />
+        <img src="./photos/competence/visual-basic.jpg" width="48" height="48" alt="VB.NET" />
       <br>VB.net
     </td>
   </tr>
@@ -274,7 +274,7 @@
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Raspberry Pi" />
+        <img src="./photos/competence/Raspberry.png" width="48" height="48" alt="Raspberry Pi" />
       <br>Raspberry
     </td> 
   </tr>
