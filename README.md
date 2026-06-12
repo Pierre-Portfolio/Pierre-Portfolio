@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Marton Lederer" />
+	<img src="https://github.com/Pierre-Portfolio/Pierre-Portfolio/blob/main/photos/Pierre.gif" alt="Pierre Portfolio" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Android" />
+        <img src="./photos/competence/android_studio.png" width="48" height="48" alt="Android Studio" />
       <br>Android
     </td>
     <td align="center" width="96">
@@ -22,7 +22,7 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="Code" /> 
+        <img src="./photos/competence/CodeBlock.png" width="48" height="48" alt="CodeBlocks" /> 
       <br>CodeBlocks
     </td>
       <td align="center" width="96">     
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center" width="96">     
-        <img src="./photos/competence/mysql.png" width="48" height="48" alt="Mysql" />    
+        <img src="./photos/competence/mysql.png" width="48" height="48" alt="MySQL" />    
       <br>MySQL
     </td>
     <td align="center" width="96">    
@@ -60,7 +60,7 @@
       <br>NodeJs
     </td>
     <td align="center" width="96">     
-        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Creator" />   
+        <img src="./photos/competence/Qt_Creator.png" width="48" height="48" alt="Qt Creator" />   
       <br>QtCreator
     </td>
     <td align="center" width="96">    
@@ -72,19 +72,19 @@
       <br>Spyder
     </td> 
     <td align="center" width="96">   
-        <img src="./photos/competence/Unity.png" width="48" height="48" alt="C#" />    
+        <img src="./photos/competence/Unity.png" width="48" height="48" alt="Unity" />    
       <br>Unity
     </td>
     <td align="center" width="96">    
-        <img src="./photos/competence/Visual_Studio.png" width="48" height="48" alt="Python" />   
-      <br>Studio
+        <img src="./photos/competence/Visual_Studio.png" width="48" height="48" alt="Visual Studio" />   
+      <br>Visual Studio
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="Golang" />  
-      <br>Code
+        <img src="./photos/competence/Visual_Studio_Code.png" width="48" height="48" alt="VS Code" />  
+      <br>VS Code
     </td>
     <td align="center" width="96"> 
-        <img src="./photos/competence/Xcode.png" width="48" height="48" alt="JavaScript" /> 
+        <img src="./photos/competence/Xcode.png" width="48" height="48" alt="Xcode" /> 
       <br>Xcode
     </td>
   </tr>
@@ -93,20 +93,20 @@
 <table align="center">
   <tr>
    <td colspan="9" align="center"> 
-        🏵️ Objects Languages 
+        🏵️ Object-Oriented Languages 
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="./photos/competence/arduino.png" width="48" height="48" alt="C#" />
+        <img src="./photos/competence/arduino.png" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
     <td align="center" width="96"> 
-        <img src="./photos/competence/csharps.png" width="48" height="48" alt="Golang" />
+        <img src="./photos/competence/csharps.png" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/c++.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./photos/competence/c++.png" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">  
@@ -114,11 +114,11 @@
       <br>Flutter
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Java.png" width="48" height="48" alt="JavaScript" />
+        <img src="./photos/competence/Java.png" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/python.png" width="48" height="48" alt="React" />
+        <img src="./photos/competence/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -126,11 +126,11 @@
       <br>Qt
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Switch.png" width="48" height="48" alt="Sass" />
+        <img src="./photos/competence/Switch.png" width="48" height="48" alt="Swift" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-8.jpg" width="48" height="48" alt="TypeScript" />
+        <img src="./photos/competence/vbnet.png" width="48" height="48" alt="VB.NET" />
       <br>VB.net
     </td>
   </tr>
@@ -147,19 +147,19 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./photos/competence/web.png" width="48" height="48" alt="C#" />
+        <img src="./photos/competence/web.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/css.png" width="48" height="48" alt="Python" />
+        <img src="./photos/competence/css.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/sql.png" width="48" height="48" alt="Golang" />
+        <img src="./photos/competence/sql.png" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/PHP.jpg" width="48" height="48" alt="Jsonnet" />
+        <img src="./photos/competence/PHP.jpg" width="48" height="48" alt="PHP" />
       <br>PHP
     </td> 
     <td align="center" width="96"> 
@@ -167,19 +167,19 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Python" />
+        <img src="./photos/competence/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Tailwind.png" width="48" height="48" alt="Golang" />
+        <img src="./photos/competence/Tailwind.png" width="48" height="48" alt="Tailwind" />
       <br>Tailwind 
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/react.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./photos/competence/react.png" width="48" height="48" alt="React" />
       <br>React
     </td> 
     <td align="center" width="96">
-        <img src="./photos/competence/Vue.png" width="48" height="48" alt="JavaScript" />
+        <img src="./photos/competence/Vue.png" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
   </tr>
@@ -188,20 +188,20 @@
 <table align="center">
   <tr>
     <td colspan="9" align="center"> 
-        📖 Machine Learning Librairies
+        📖 Machine Learning Libraries
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
         <img src="./photos/competence/hf.png" width="48" height="48" alt="HuggingFace" />
-      <br>HuggFace
+      <br>HuggingFace
     </td>
     <td align="center" width="96"> 
         <img src="./photos/competence/Keras.png" width="48" height="48" alt="Keras" />
       <br>Keras
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/numpy.png" width="48" height="48" alt="BeautifulSoup" />
+        <img src="./photos/competence/numpy.png" width="48" height="48" alt="Numpy" />
       <br>Numpy
     </td>
     <td align="center" width="96">
@@ -242,7 +242,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-        <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elastic" />
+        <img src="./photos/competence/elastic-elasticsearch.png" width="48" height="48" alt="Elasticsearch" />
       <br>Elastic
     </td>
     <td align="center" width="96">  
@@ -250,7 +250,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96"> 
-        <img src="./photos/competence/neo4j.png" width="48" height="48" alt="neo4j.png" />
+        <img src="./photos/competence/neo4j.png" width="48" height="48" alt="Neo4j" />
       <br>Neo4j
     </td>
     <td align="center" width="96">
@@ -262,20 +262,20 @@
       <br>PowerBI
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/android.png" width="48" height="48" alt="JavaScript" />
+        <img src="./photos/competence/android.png" width="48" height="48" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/debian.png" width="48" height="48" alt="Python" />
+        <img src="./photos/competence/debian.png" width="48" height="48" alt="Debian" />
       <br>Debian
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Ubuntu.png" width="48" height="48" alt="Golang" />
+        <img src="./photos/competence/Ubuntu.png" width="48" height="48" alt="Ubuntu" />
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-        <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Jsonnet" />
-      <br>Rasberry
+        <img src="./photos/competence/Rasberry.png" width="48" height="48" alt="Raspberry Pi" />
+      <br>Raspberry
     </td> 
   </tr>
 </table>
@@ -299,60 +299,28 @@
   </tr>
   <tr>
     <td align="center" width="288" height="64">
-      <a href="https://cssbattle.dev/player/trynjitsu">
-			  <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
-		  </a>
+      <a href="https://cssbattle.dev/player/trynjitsu" rel="noopener noreferrer">
+        <img src="./photos/banner/cssbattle.png" width="274" height="64" alt="CssBattle" />
+      </a>
       <p align="center">⭐ 1577 points</p> 
-	  </td>
-	  <td align="center" width="288" height="64">
-      <a href="https://www.kaggle.com/pierreelipse" >
-			  <img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
-		  </a>
+    </td>
+    <td align="center" width="288" height="64">
+      <a href="https://www.kaggle.com/pierreelipse" rel="noopener noreferrer">
+        <img src="./photos/banner/kaggle.png" width="280" height="64" alt="Kaggle" />
+      </a>
       <p align="center">⭐ Unranked</p> 
     </td>
     <td align="center" width="288" height="64">
-      <a href="https://www.root-me.org/Elipse?inc=info&lang=fr">
+      <a href="https://www.root-me.org/Elipse" rel="noopener noreferrer">
         <img src="./photos/banner/rootmelogo.jpg" width="274" height="64" alt="RootMe" />
       </a>
       <p align="center">⭐ 50 points</p> 
     </td>
   </tr>
 </table>
-<br>
-<!--
-<table align="center">
-  <tr>
-   <td colspan="3" align="center"> 
-        ✨ Follow me
-   </td>
-  </tr>
-  <tr>
-    <td align="center" width="288" height="64">
-        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="274" height="64" alt="Youtube" />
-		</a>
-	</td>
-	    <td align="center" width="288" height="64">
-        <a href="https://www.speedrun.com/user/Trynjitsu" >
-			<img src="./photos/banner/SpeedRun.png" width="280" height="64" alt="SpeedRun" />
-		</a>
-	</td>
-	<td align="center" width="288" height="64">
-		<a href="https://www.twitch.tv/trynjutsu">
-			<img src="./photos/banner/Twitch.png" width="274" height="64" alt="Twitch" />
-		</a>
-    </td>
-  </tr>
-</table>
--->
-
-<!-- CodersRank.io => à priorie les widget ne fonctionne plus
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pierre-portfolio&badges=3&show-avatar=True&style=--header-bg-color:%21000;--border-radius:20px" />
--->
 
 ---
 
-<!--   <img src="https://counter-visit-github.onrender.com/count" /> -->
 <p align="center"> 
   Visitor Counter
   <br>
